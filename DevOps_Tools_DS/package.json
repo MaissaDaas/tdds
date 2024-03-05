@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tip.js",
+  "scripts": {
+ "start": "node Tip.js",
+   "start1": "node Tip1.js",
+   "dev": "npm run start npm run start1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
